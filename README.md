@@ -1,7 +1,7 @@
 # Hi
 Hi,I am Ju33Huang22.
 
-Just a common Linux user and do sth instered
+Just a common Linux user and do sth interesting
 
 # Contact me
 Email:ju33huang22@proton.me
