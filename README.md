@@ -4,7 +4,7 @@ Hi,I am Ju33Huang22.
 Just a common Linux user and do sth interesting
 
 # Contact me
-Email:ju33huang22@proton.me
+Telegram: @Ju33Huang22
 
 ## GPG Public Key
 If u want send me sth important,just use this
