@@ -3,6 +3,9 @@ Hi,I am Ju33Huang22.
 
 Just a common Linux user and do sth interesting
 
+
+反 OpenWrt 中文圈，用 [TPClash](https://github.com/TPClash/tpclash)
+
 # Contact me
 Telegram: @Ju33Huang22
 
