@@ -24,6 +24,3 @@ hVMGEPrZiKbFQxV7HgD1Gyr//5Gov1lGRjx7YeZh6nSrL+cpkT3PZ6baPK2FDw==
 -----END PGP PUBLIC KEY BLOCK-----
 
 ```
-
-# 反 OpenWrt，用 [TPClash](https://github.com/TPClash/tpclash)
-警惕 ImmortalWrt 社区 / 其他简中 OpenWrt 社区没实力装实力直接开 Ban
